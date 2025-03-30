@@ -2,6 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18922586&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Fundamental concepts of version control:
 1. Repositories - It is a directory where the project lives. We have local repository and remote repository. Local Repository is on the individuals computer. Remote Repository is hosted on a server like GitHub.
 2. Commits - A commit is a snapshot of your entire project at a specific point in time. It contains a message describing the changes made.
 3. Tracking changes - Version control systems monitor every modification you make to your file. It tells what was changed, who changed it and when.
@@ -19,6 +20,7 @@ How version control helps in maintaining project intergrity:
 2. Tracking the evolution of the project - The commit history provides detailed log of all modifications along with the commit messages. This allows developers to understand how the prject evolved.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+Process of setting up a new repository:
 1. Sign in to your GitHub account - Log in using your username and password.
 2. Navigate to new repository page - In the upper right corner of the GitHub dashboard select new repository from the dropdown menu.
 3. Provide the repository name - Choose a clear and concise name for your repository. Use lowercase letters, numbers and hyphens.
@@ -35,6 +37,7 @@ Important decisions you need to make:
 3. Choosing a licence - If you intend to share your code publicly, choosing an open source licence is essential.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+Importance of README file:
 1. It is the first thing someone sees when visiting your repository. A clear and informative README creates a positve first impression and encourages further engagement.
 2. Project understanding - It provides essential context about your project. Helps people quickly understand what it does, its purpose and its goals.
 3. Documentati0n foundation - For smaller projects, the README might serve as the primary form of documentation.
@@ -61,6 +64,7 @@ How does a well written README contribute to effective collaboration:
 5. A well documented project is easier for the original developers and future maintainers to understand and maintain over time.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+Comparison and contrast between public and private repository:
 1. Public repository is accessibe to everyone on the internet while in private repository is only accessible to the repository owner and invited collaborators.
 2. In public repository anyone can fork and suggest changes via pull requests while in private repository access and permissions are strictly controlled by the owner.
 3. Public repository is ideal for open source projects and projects where broad collaborations are desired while private repository is ideal for internal team projects, proprietary software developments, client work and any project where access needs to be restricted.
